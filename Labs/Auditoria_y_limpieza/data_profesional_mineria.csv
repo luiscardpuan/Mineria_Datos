@@ -1,0 +1,104 @@
+index,ID_Cliente,Nombre,Edad,Genero,Saldo_Cuenta,Fecha_Registro,Email
+0,ID-000,Sofía R.,-5.0,femenino,2672.8001185341022,15/05/2022,
+1,ID-001,ana garcía,29.0,Masc,6786.587274924827,2021.12.01,user@test.com
+2,ID-002,Luis M.,NaN,F,979.0015139585037,Invalid_Date,error_at_domain
+3,ID-003,,29.0,Fem,33139.855298057955,2023-01-15,
+4,ID-004,Luis M.,35.0,F,13011.847570438926,2023-01-15,
+5,ID-005,Sofía R.,150.0,Masculino,22768.934134353785,Invalid_Date,no-reply@uan.edu.co
+6,ID-006,ana garcía,29.0,?,17843.528846445373,Invalid_Date,
+7,ID-007,Luis M.,28.0,Masc,45861.094861216254,2021.12.01,user@test.com
+8,ID-008,Juan Pérez,150.0,F,4004.1651331428047,2021.12.01,error_at_domain
+9,ID-009,Sofía R.,NaN,Masculino,27854.383557077723,2021.12.01,
+10,ID-010,Juan Pérez,29.0,Fem,47813.16240286081,15/05/2022,error_at_domain
+11,ID-011,María López,29.0,Fem,48211.786790432605,Invalid_Date,no-reply@uan.edu.co
+12,ID-012,Sofía R.,150.0,?,23762.571087137814,Invalid_Date,no-reply@uan.edu.co
+13,ID-013,Sofía R.,29.0,?,25004.097306474272,2024/02/20,
+14,ID-014,María López,-5.0,femenino,48269.33064691049,2024/02/20,user@test.com
+15,ID-015,María López,29.0,Masculino,13974.746862827027,Invalid_Date,no-reply@uan.edu.co
+16,ID-016,María López,29.0,F,15227.911722883626,2023-01-15,error_at_domain
+17,ID-017,Luis M.,150.0,femenino,20258.336777074117,15/05/2022,
+18,ID-018,,29.0,Masc,21550.597448567958,2021.12.01,
+19,ID-019,ana garcía,150.0,?,17707.841045829773,2024/02/20,
+20,ID-020,María López,-5.0,F,49620.64583901275,15/05/2022,error_at_domain
+21,ID-021,C. Sánchez,35.0,femenino,46688.44395323539,2021.12.01,error_at_domain
+22,ID-022,,150.0,F,38461.80149013079,2024/02/20,no-reply@uan.edu.co
+23,ID-023,María López,35.0,femenino,5864.512263096649,15/05/2022,
+24,ID-024,,35.0,?,14812.35119595673,2023-01-15,no-reply@uan.edu.co
+25,ID-025,Juan Pérez,-5.0,Fem,11896.626447282746,Invalid_Date,error_at_domain
+26,ID-026,,-5.0,F,43773.22879791744,2021.12.01,no-reply@uan.edu.co
+27,ID-027,Sofía R.,NaN,Fem,32804.078143884675,2023-01-15,
+28,ID-028,,29.0,Fem,13358.649213187604,15/05/2022,error_at_domain
+29,ID-029,María López,-5.0,?,11698.191069289633,2024/02/20,
+30,ID-030,Sofía R.,29.0,Fem,3567.1792834286853,15/05/2022,user@test.com
+31,ID-031,ana garcía,-5.0,Masc,855.8602899323009,2024/02/20,error_at_domain
+32,ID-032,C. Sánchez,15.0,Masculino,32497.867356649374,2021.12.01,user@test.com
+33,ID-033,Juan Pérez,NaN,femenino,20396.741826497877,2024/02/20,
+34,ID-034,Luis M.,29.0,F,33020.7170451437,2024/02/20,no-reply@uan.edu.co
+35,ID-035,ana garcía,42.0,Masc,20643.62158928551,2024/02/20,error_at_domain
+36,ID-036,ana garcía,28.0,M,22656.64499168875,15/05/2022,no-reply@uan.edu.co
+37,ID-037,ana garcía,-5.0,Masc,14612.104260527563,15/05/2022,no-reply@uan.edu.co
+38,ID-038,ana garcía,29.0,Masc,48543.96125867458,2023-01-15,
+39,ID-039,Juan Pérez,35.0,M,27467.56302958183,15/05/2022,user@test.com
+40,ID-040,C. Sánchez,35.0,Fem,18180.051162850108,2021.12.01,
+41,ID-041,,150.0,Masc,27437.86198918937,Invalid_Date,no-reply@uan.edu.co
+42,ID-042,,150.0,M,8159.872670297042,2024/02/20,
+43,ID-043,María López,42.0,M,7900.005141271704,2023-01-15,
+44,ID-044,ana garcía,28.0,?,46860.73390827954,2023-01-15,no-reply@uan.edu.co
+45,ID-045,ana garcía,35.0,Masc,2888.1827772520974,Invalid_Date,error_at_domain
+46,ID-046,,29.0,F,25730.303055699285,2024/02/20,user@test.com
+47,ID-047,ana garcía,15.0,F,39701.98411843237,2023-01-15,
+48,ID-048,C. Sánchez,35.0,femenino,29573.729865256388,2021.12.01,error_at_domain
+49,ID-049,Luis M.,29.0,M,14682.992148113159,Invalid_Date,no-reply@uan.edu.co
+50,ID-050,María López,-5.0,Masc,39201.876381509996,Invalid_Date,error_at_domain
+51,ID-051,Sofía R.,150.0,M,2818.5660138053595,15/05/2022,
+52,ID-052,Sofía R.,150.0,Masc,30060.005163388338,15/05/2022,error_at_domain
+53,ID-053,,150.0,Masc,26946.99886786311,2021.12.01,user@test.com
+54,ID-054,C. Sánchez,29.0,F,40931.05526872353,Invalid_Date,no-reply@uan.edu.co
+55,ID-055,Luis M.,42.0,Fem,-94.14613131631245,2023-01-15,no-reply@uan.edu.co
+56,ID-056,Luis M.,42.0,Fem,19734.07906623492,Invalid_Date,user@test.com
+57,ID-057,,28.0,Masc,31366.38045524471,2021.12.01,no-reply@uan.edu.co
+58,ID-058,,28.0,F,45671.590782260326,2024/02/20,
+59,ID-059,Luis M.,42.0,Masculino,25709.480764169042,2021.12.01,
+60,ID-060,C. Sánchez,42.0,Fem,16075.902619218265,15/05/2022,error_at_domain
+61,ID-061,ana garcía,15.0,Masc,18884.44823816295,Invalid_Date,error_at_domain
+62,ID-062,Juan Pérez,15.0,Masculino,2956.1710327399387,Invalid_Date,error_at_domain
+63,ID-063,ana garcía,28.0,Masculino,35956.247483351784,2023-01-15,user@test.com
+64,ID-064,Juan Pérez,150.0,F,43437.518887409526,2021.12.01,error_at_domain
+65,ID-065,Luis M.,29.0,femenino,29962.0760641012,2021.12.01,user@test.com
+66,ID-066,,150.0,femenino,13342.104612648054,Invalid_Date,
+67,ID-067,Sofía R.,150.0,M,39403.876144047535,2021.12.01,error_at_domain
+68,ID-068,Luis M.,15.0,Fem,32370.740203350266,2023-01-15,
+69,ID-069,Juan Pérez,28.0,Masc,9964.983417984671,2023-01-15,
+70,ID-070,Juan Pérez,42.0,?,19722.58198913849,Invalid_Date,
+71,ID-071,,28.0,M,46778.29158579925,2024/02/20,error_at_domain
+72,ID-072,,150.0,femenino,16506.03478162804,2024/02/20,no-reply@uan.edu.co
+73,ID-073,Juan Pérez,-5.0,M,48772.06448828947,15/05/2022,
+74,ID-074,Juan Pérez,NaN,femenino,24909.80078747128,2024/02/20,no-reply@uan.edu.co
+75,ID-075,Sofía R.,28.0,?,19780.427844849044,2023-01-15,user@test.com
+76,ID-076,,15.0,?,31425.58888281035,Invalid_Date,no-reply@uan.edu.co
+77,ID-077,,NaN,Masculino,22658.23236681937,15/05/2022,error_at_domain
+78,ID-078,C. Sánchez,29.0,?,32780.651615659226,2023-01-15,no-reply@uan.edu.co
+79,ID-079,Juan Pérez,150.0,?,46959.9324484593,2023-01-15,user@test.com
+80,ID-080,ana garcía,NaN,femenino,8020.410941292104,2024/02/20,
+81,ID-081,,28.0,Fem,35922.00072694835,Invalid_Date,error_at_domain
+82,ID-082,Juan Pérez,-5.0,Fem,10489.049391502092,2023-01-15,no-reply@uan.edu.co
+83,ID-083,C. Sánchez,28.0,Masculino,25043.70448213572,2024/02/20,no-reply@uan.edu.co
+84,ID-084,María López,35.0,Masc,49541.22190514831,2021.12.01,no-reply@uan.edu.co
+85,ID-085,María López,29.0,femenino,43857.72166987693,2021.12.01,
+86,ID-086,Sofía R.,15.0,Masculino,29266.319243183632,Invalid_Date,user@test.com
+87,ID-087,C. Sánchez,15.0,Fem,34943.90528158822,2024/02/20,user@test.com
+88,ID-088,,-5.0,femenino,16896.730764393884,2021.12.01,error_at_domain
+89,ID-089,,150.0,Masculino,828.4594539119071,2023-01-15,
+90,ID-090,ana garcía,28.0,M,14661.453749578272,2021.12.01,user@test.com
+91,ID-091,,42.0,Masculino,47115.873493937426,2021.12.01,no-reply@uan.edu.co
+92,ID-092,ana garcía,29.0,?,41492.51224525419,Invalid_Date,user@test.com
+93,ID-093,ana garcía,15.0,Masc,-909.1403650305961,2023-01-15,error_at_domain
+94,ID-094,Luis M.,150.0,M,38811.32190651021,2024/02/20,
+95,ID-095,María López,15.0,?,34306.509483412905,2023-01-15,no-reply@uan.edu.co
+96,ID-096,Sofía R.,15.0,?,46836.16135045731,2021.12.01,no-reply@uan.edu.co
+97,ID-097,Sofía R.,28.0,Masculino,34627.051189217855,Invalid_Date,
+98,ID-098,,35.0,Masculino,40676.99365996141,2021.12.01,error_at_domain
+99,ID-099,,150.0,?,37020.404739757716,Invalid_Date,error_at_domain
+100,ID-005,Sofía R.,150.0,Masculino,22768.934134353785,Invalid_Date,no-reply@uan.edu.co
+101,ID-010,Juan Pérez,29.0,Fem,47813.16240286081,15/05/2022,error_at_domain
+102,ID-015,María López,29.0,Masculino,13974.746862827027,Invalid_Date,no-reply@uan.edu.co
